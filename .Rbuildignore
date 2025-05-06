@@ -17,3 +17,6 @@
 ^data/Cynoscion_virescens_SPR\.rda$
 ^data/GuyanaSeatrout_ld\.rda$
 ^test$
+^_pkgdown\.yml$
+^docs$
+^pkgdown$

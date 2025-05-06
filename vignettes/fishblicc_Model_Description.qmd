@@ -57,7 +57,7 @@ This section deals with the effect of length-based mortality (e.g. selectivity, 
 In common with most length-based modelling, mean growth is assumed to be well approximated by the von Bertalanffy growth function:
 
 $$
- L_t  = L_\infty \left ( 1 - {\large e}^{-k (t -t_0)} \right ) 
+L_t  = L_\infty \left( 1 - {\large e}^{-k (t -t_0)} \right).
 $$
 
 Growth uncertainty can be included in this model by considering variation in growth among fish, so the growth parameter $L_\infty$ is treated as a random variable, each fish having its own maximum size. The obvious choice for the probability distribution for this parameter is the gamma distribution since it is constrained to be a positive real number and has a constant coefficient of variation. The gamma distribution for the individual fish asymptotic length is given as:  
